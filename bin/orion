@@ -1,0 +1,2 @@
+#!/bin/zsh
+"$HOME"/orion-cli/commands/"$1"/"$2".sh "${@:3}"
