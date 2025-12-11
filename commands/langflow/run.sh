@@ -1,4 +1,4 @@
-#!/bin/zsh
+#!/bin/bash
 set -e
 BRANCH=$1
 BASE_DIR="$HOME/orion"
